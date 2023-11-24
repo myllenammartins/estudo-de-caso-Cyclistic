@@ -3,10 +3,10 @@
 # Introdução
 Estudo de caso da análise do compartilhamento de bicicletas da Cyclistic. Neste estudo de caso, tem como objetivo realizar tarefas do mundo real de um analista de dados júnior. Trabalhando  para uma empresa fictícia, a Cyclistic, e conhecer diferentes personagens e membros da equipe. Para responder às principais perguntas de negócios, siguindo as etapas do processo de análise de dados: **perguntar**, **preparar**, **processar**, **analisar**, **compartilhar** e **agir**.
 
-#Cenário
+# Cenário
 Como um analista de dados júnior que trabalha na equipe de analistas de marketing da Cyclistic, uma empresa de compartilhamento de bicicletas em Chicago. O diretor de marketing acredita que o sucesso futuro da empresa depende da maximização do número de planos anuais contratados. Portanto, sua equipe quer entender como os ciclistas casuais e os membros anuais usam as bicicletas da Cyclistic de forma diferente. A partir desses insights, sua equipe criará uma nova estratégia de marketing para converter passageiros casuais em membros anuais. Mas, primeiro, os executivos da Cyclistic devem aprovar suas recomendações que, portanto, devem ser apoiadas com insights de dados convincentes e visualizações de dados profissionais.
 
-#Sobre a empresa Cyclistic
+# Sobre a empresa Cyclistic
 Em 2016, a Cyclistic lançou uma oferta bem-sucedida de compartilhamento de bicicletas. Desde então, o programa cresceu para uma frota de 5.824 bicicletas com rastreamento geográfico e bloqueio dentro de uma rede de 692 estações em Chicago. As bicicletas podem ser desbloqueadas em uma estação e devolvidas em qualquer outra estação do sistema a qualquer momento.
 
 Até agora, a estratégia de marketing da Cyclistic baseava-se na conscientização geral e no apelo a amplos segmentos de consumidores. Uma abordagem que ajudou a tornar essas coisas possíveis foi a flexibilidade de seus planos de preços: passes de viagem única, passes de dia inteiro e planos anuais. Os clientes que adquirem passes de viagem única ou de dia inteiro são chamados de passageiros casuais. Os clientes que adquirem planos anuais são membros Cyclistic.
